@@ -1,0 +1,35 @@
+
+/*Jamison Jones Last Edited: April 15, 2022*/
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    font-size: 25px;
+    
+}
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    font-weight: 300;
+}
+li {
+    font-size: 20px;
+    font-style: italic;
+}
+div {
+    height: 250px;
+    width: 300px;
+    position: relative;
+
+}
+object {
+    top:114px;
+    bottom: 64px;
+
+}
+img {
+    height: 150px;
+    width:200px;
+}
+a {
+    font-size: 20px;
+    font-style: normal;
+    
+}
